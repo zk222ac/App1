@@ -37,6 +37,7 @@ namespace App1
 
         public ICommand CountButton { get; set; }
 
+
         // Enable this method when synchronous call
         public  void CountNumbersInFileSync()
         {
